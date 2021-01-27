@@ -1,6 +1,8 @@
-**DRAFT**
-
 # Automation vendor lock-in: How to deal with it? 🔒
+
+![Lock](lock.jpg)
+
+<span>Photo by <a href="https://unsplash.com/@imattsmart?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">iMattSmart</a> on <a href="https://unsplash.com/s/photos/lock?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 > In economics, vendor lock-in, also known as proprietary lock-in or customer lock-in, makes a customer dependent on a vendor for products and services, unable to use another vendor without substantial switching costs. [Wikipedia, Vendor lock-in](https://en.wikipedia.org/wiki/Vendor_lock-in)
 
